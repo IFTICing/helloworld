@@ -1,4 +1,2 @@
-# helloworld
-maybe something interesting
-
-the Best Picture is belonged to the paradise.
+# Deep-Learning-Based-Social-Bot-Detection-on-Twitter
+Core model code of our article named "Deep Learning Based Social Bot Detection on Twitter"
